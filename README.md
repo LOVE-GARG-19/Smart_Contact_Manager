@@ -27,12 +27,18 @@ Full-Stack Contact manager website using Springboot, Thymeleaf, Websocket and My
 
 
 ## Sneak Peek of Project 🙈 :
-![Main Page](./Screenshots/MainPage.png)
+![Home Page](./Screenshots/home.png)
 
 <table>
   <tr>
-    <td><img src="./Screenshots/RoomPage.png" alt="mockup" /></td>
-    <td><img src="./Screenshots/ChatPage.png" alt="mockups" /></td>
+    <td><img src="./Screenshots/login.png" alt="mockup" /></td>
+    <td><img src="./Screenshots/signup.png" alt="mockups" /></td>
+     <td><img src="./Screenshots/verify.png" alt="mockups" /></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshots/contacts.png" alt="mockup" /></td>
+    <td><img src="./Screenshots/profile.png" alt="mockups" /></td>
+     <td><img src="./Screenshots/add.png" alt="mockups" /></td>
   </tr>
 </table>
 
